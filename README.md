@@ -1,2 +1,4 @@
 # Fundamentos-de-ciencia-de-datos
-Proyectos del bootcamp de Fundamentos de Ciencia de Datos (Talento Digital) — Python, ML clásico y Spark — con foco en aplicaciones a geoestadística y planificación minera.
+Este repositorio reúne los desafíos y proyectos desarrollados durante el bootcamp de Fundamentos de Ciencia de Datos (Talento Digital), cubriendo el ciclo completo de un proyecto de datos: exploración y limpieza (pandas, NumPy, EDA, estadística y probabilidad), modelado predictivo supervisado y no supervisado (regresión logística, Random Forest, GridSearchCV, K-means, DBSCAN, PCA, t-SNE) y procesamiento a escala con Apache Spark y MLlib.
+
+Como Ingeniero Civil de Minas con formación en geoestadística (kriging, simulación condicional) y planificación minera (optimización de pit con Lerchs-Grossmann, Vulcan, Datamine), uso también este espacio para explorar el punto de encuentro entre ambos mundos: cómo técnicas de machine learning como Random Forest y validación cruzada pueden complementar o contrastar con los métodos geoestadísticos clásicos en la estimación de recursos minerales.
