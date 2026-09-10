@@ -5,10 +5,6 @@ Ciencia de Datos, Talento Digital. Sirve de base para la construcción del porta
 
 **Estudiante:** Eric Ignacio Rodríguez Acuña
 **Contacto:** eric.rodriguez.acu@gmail.com · [linkedin.com/in/ericrodrigueza](https://linkedin.com/in/ericrodrigueza)
-
-> **Retroalimentación docente:** no se recibió retroalimentación formal sobre este desafío antes
-> de avanzar a la etapa de finalización del portafolio.
-
 ---
 
 ## 1. Selección del repositorio
